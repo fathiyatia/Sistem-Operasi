@@ -4,11 +4,15 @@
 
 ```bash
 # pindah ke direktori home anda
-...
+cd
+
 # buat satu folder kosong 'test'
-...
+mkdir test
+
 # masuk ke direktori 'test'
-...
+cd test
+
+
 # tampilkan path direktori saat ini
 ...
 # buat file kosong bernama 'empty.txt'
