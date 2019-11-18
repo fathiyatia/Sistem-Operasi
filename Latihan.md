@@ -1,4 +1,8 @@
-Latihan UASP
+# Latihan UASP
+
+---
+
+```bash
 # pindah ke direktori home anda
 ...
 # buat satu folder kosong 'test'
@@ -9,6 +13,11 @@ Latihan UASP
 ...
 # buat file kosong bernama 'empty.txt'
 ...
+```
+
+---
+
+```bash
 # copy file '/etc/timezone' ke direktori ini
 ...
 # ubah nama file 'timezone' menjadi 'tz.txt'
@@ -19,6 +28,11 @@ Latihan UASP
 ...
 # hapus direktori 'test' seisinya
 ...
+```
+
+---
+
+```bash
 # temukan file dengan nama 'fdisk' memakai `locate`
 ...
 # temukan file dengan nama 'fdisk' memakai `find`
@@ -29,6 +43,11 @@ Latihan UASP
 ...
 # temukan file pada home anda yang diakses > 30 hari
 ...
+```
+
+---
+
+```bash
 # tampilkan 5 baris pertama keluaran perintah `last`
 ...
 # tampilkan dua baris terakhir file '/etc/passwd'
@@ -39,6 +58,11 @@ Latihan UASP
 ...
 # tampilkan isi file '/etc/motd' dalam huruf kapital
 ...
+```
+
+---
+
+```bash
 # jalankan `cat /dev/random > rand.txt` di background
 ...
 # tampilkan daftar job
@@ -49,12 +73,4 @@ Latihan UASP
 ...
 # kirim sinyal TERM ke job tersebut
 ...
-Kisi-kisi
-echo hostname uname date cal who
-cd pwd ls touch
-cp mv rm mkdir rmdir
-chmod ln
-locate find wc
-cat head tail sort uniq cut tr grep sed
-ps nice renice pidof kill
-& jobs fg bg
+```
