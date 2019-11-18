@@ -1,1 +1,32 @@
 CUT
+
+# print huruf ke tiga setiap baris
+cut -c 3
+
+# print huruf ke dua dan tujuh
+cut -c 2,7
+
+# print huruf ke dua sampai tujuh
+cut -c 2,3,4,5,6,7
+
+# print 4 huruf pertama
+cut -c 1,2,3,4
+
+# print tiga fields pertama
+cut -f 1,2,3
+
+# print karakter dari posisi ketiga belas sampai akhir
+cut -c 13-100
+
+# print kata yang memiliki huruf ke empat, spasi jadi pemisah
+cut -d ' ' -f 4
+
+# print 3 kata pertama setiap sentences
+cut -d ' ' -f 1,2,3
+
+# print field kedua sampai terakhir
+cut -f 2-100
+
+------------------------------------------------------------------------
+
+HEAD
