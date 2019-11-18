@@ -1,4 +1,4 @@
-BAB 8
+BAB 8 - intro cli
 
 # SSH
 login ke komputer remote
@@ -23,7 +23,7 @@ menampilkan siapa yang sedang login
 
 -----------------------------------------------------------------------
 
-BAB 9
+BAB 9 - file
 
 # cd
 mengganti direktori
@@ -51,4 +51,80 @@ membuat direktori
 
 # rmdir
 menghapus dorektori kosong
+
+-----------------------------------------------------------------------
+
+BAB 10 - permission-pipe
+
+# chmod
+mengubah mode permission suatu ﬁle. 
+
+-----------------------------------------------------------------------
+
+BAB 11 - text process
+
+# locate
+mencari file berdasarkan namanya
+
+# find
+mencari file pada sebuah hierarki direktori
+
+# wc
+mencetak jumlah baris, kata, dan karakter dari suatu file
+
+# cat
+menggabungkan file dan menampilkan isinya ke layar
+
+# head
+menampilan bagian awal file (default 10 baris)
+
+# tail
+menampilkan bagian akhir file (default 10 baris)
+
+# sort
+mengurutkan baris teks pada file
+
+# uniq
+menghilangkan baris teks yang berulang
+
+# cut
+mengambil karakter/kolom tertentu dari tiap baris teks
+
+# tr
+translasi karakter dari set pertama ke set kedua
+
+# grep
+mencetak baris teks yang cocok dengan suatu pola
+
+# sed
+stream editor, manipulasi baris teks dengan regular expression
+
+-----------------------------------------------------------------------
+
+BAB 12 - job control
+
+# ps
+menampilkan cuplikan informasi proses yang sedang berjalan
+
+# nice
+menjalankan program dengan prioritas nice2 tertentu (default: 10)
+
+# renice
+mengubah prioritas proses yang sudah berjalan
+
+# pidof
+mendapatkan PID dari nama program yang sedang berjalan
+
+# kill
+mengirim sinyal ke suatu proses (default: SIGTERM) 
+
+# jobs
+menampilkan daftar job yang sedang aktif
+
+# fg
+memindahkan job ke foreground
+
+# bg
+memindahkan job ke background
+
 
