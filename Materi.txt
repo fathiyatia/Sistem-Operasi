@@ -57,7 +57,10 @@ menghapus dorektori kosong
 BAB 10 - permission-pipe
 
 # chmod
-mengubah mode permission suatu ﬁle. 
+mengubah mode permission suatu ﬁle
+
+# ln
+membuat link antar-file
 
 -----------------------------------------------------------------------
 
