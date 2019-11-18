@@ -1,4 +1,0 @@
-# pindah ke direktori home anda
-cd 
-
-# buat satu folder kosong 'test'
