@@ -1,0 +1,54 @@
+BAB 8
+
+# SSH
+login ke komputer remote
+
+# Echo
+menampilkan satu baris teks
+
+# Hostname
+menampilkan nama host sistem
+
+# Uname
+menampilkan informasi kernel sistem
+
+# Date
+mencetak tanggal dan waktu sistem 
+
+# Cal
+menampilkan kalender
+
+# Who
+menampilkan siapa yang sedang login
+
+-----------------------------------------------------------------------
+
+BAB 9
+
+# cd
+mengganti direktori
+
+# pwd
+mencetak nama direktori saat ini
+
+# ls
+menampilkan daftar isi direktori
+
+# touch
+meng-update waktu akses dan modifikasi suati file, jika file belm ada maka touch akan membuat file kosong
+
+# cp
+menyalin file dan direktori
+
+# mv
+memindahkan (mengganti nama) file
+
+# rm
+menghapus file atau direktori
+
+# mkdir
+membuat direktori
+
+# rmdir
+menghapus dorektori kosong
+
